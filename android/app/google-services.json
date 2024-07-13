@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677941964945",
+    "firebase_url": "https://aan-uas-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "aan-uas",
+    "storage_bucket": "aan-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677941964945:android:9b7492873b50c78668cf30",
+        "android_client_info": {
+          "package_name": "com.example.aan_uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677941964945-n009nnc6uqol2ig7fs8g1l4iport3nai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aan_uas",
+            "certificate_hash": "4a52b388dfcd324ac1c7235b41c31ba2d823c3e8"
+          }
+        },
+        {
+          "client_id": "677941964945-q9mpqqaf3aabh1igutm6v2dlv7mif2q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ92haH3zyhvE8aKymTGBW4enYuWvFHQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677941964945-q9mpqqaf3aabh1igutm6v2dlv7mif2q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
